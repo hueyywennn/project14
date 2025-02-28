@@ -6,7 +6,7 @@
 This project aims to analyze and predict restaurant reviews in Bangalore using the Zomato dataset. Key insights are extracted to understand customer sentiments, ratings, and popular restaurants by leveraging SQL queries within SQLite. The analysis is conducted in Jupyter Notebook using Pandas and SQLite for database management.
 
 ## Dataset Description
-(https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants/data)
+**Dataset Source:** [Zomato Bangalore Dataset](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants/data)
 | Feature                         | Description                                         |
 |---------------------------------|-----------------------------------------------------|
 | name                            | Name of the restaurant                              |
